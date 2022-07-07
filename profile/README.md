@@ -1,4 +1,5 @@
-![Image](image.jpg) 
+![Image](https://github.com/Crystal-Design-GmbH/.github/blob/develop/profile/image.jpg) 
+
 
 
 Transforming furniture retailing with Digital Technologies: 
