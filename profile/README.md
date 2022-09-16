@@ -4,7 +4,7 @@
 
 Transforming furniture retailing with Digital Technologies: 
 
-[DIVA Configurator](https://www.diva-portal.de/online-konfigurator.html) | [DIVA Seller](https://www.diva-portal.de/online-seller.html) | [HQ Renderings](https://www.diva-portal.de/hq-render-service.html) | [Catalog digitalization](https://www.diva-portal.de/) | [New Marketing & New Sale](https://www.diva-portal.de/marketing-service.html)
+[Application-Service](https://www.diva-portal.de/application-service) | [Digitalization Service](https://www.diva-portal.de/digitalisierungs-service) | [Marketing Service](https://www.diva-portal.de/marketing-service)
 
 * [Website](https://www.diva-portal.de/)
 * [LinkedIn](https://www.linkedin.com/company/crystal-design-gmbh)
